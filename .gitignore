@@ -65,7 +65,7 @@ artifacts/
 # Tye
 .tye/
 vscode
-.vscode
+./.vscode
 # ASP.NET Scaffolding
 ScaffoldingReadMe.txt
 
