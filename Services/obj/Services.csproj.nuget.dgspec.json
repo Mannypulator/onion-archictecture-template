@@ -1,0 +1,302 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\23480\\Documents\\Projects\\onion-architecture\\Services\\Services.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\23480\\Documents\\Projects\\onion-architecture\\Contract\\Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\23480\\Documents\\Projects\\onion-architecture\\Contract\\Contract.csproj",
+        "projectName": "Contract",
+        "projectPath": "c:\\Users\\23480\\Documents\\Projects\\onion-architecture\\Contract\\Contract.csproj",
+        "packagesPath": "C:\\Users\\23480\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\23480\\Documents\\Projects\\onion-architecture\\Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\23480\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "c:\\Users\\23480\\Documents\\Projects\\onion-architecture\\Entity\\Entity.csproj": {
+                "projectPath": "c:\\Users\\23480\\Documents\\Projects\\onion-architecture\\Entity\\Entity.csproj"
+              },
+              "c:\\Users\\23480\\Documents\\Projects\\onion-architecture\\Shared\\Shared.csproj": {
+                "projectPath": "c:\\Users\\23480\\Documents\\Projects\\onion-architecture\\Shared\\Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\23480\\Documents\\Projects\\onion-architecture\\Entity\\Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\23480\\Documents\\Projects\\onion-architecture\\Entity\\Entity.csproj",
+        "projectName": "Entity",
+        "projectPath": "c:\\Users\\23480\\Documents\\Projects\\onion-architecture\\Entity\\Entity.csproj",
+        "packagesPath": "C:\\Users\\23480\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\23480\\Documents\\Projects\\onion-architecture\\Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\23480\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "c:\\Users\\23480\\Documents\\Projects\\onion-architecture\\Shared\\Shared.csproj": {
+                "projectPath": "c:\\Users\\23480\\Documents\\Projects\\onion-architecture\\Shared\\Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\23480\\Documents\\Projects\\onion-architecture\\Services.Contract\\Services.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\23480\\Documents\\Projects\\onion-architecture\\Services.Contract\\Services.Contract.csproj",
+        "projectName": "Services.Contract",
+        "projectPath": "c:\\Users\\23480\\Documents\\Projects\\onion-architecture\\Services.Contract\\Services.Contract.csproj",
+        "packagesPath": "C:\\Users\\23480\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\23480\\Documents\\Projects\\onion-architecture\\Services.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\23480\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\23480\\Documents\\Projects\\onion-architecture\\Services\\Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\23480\\Documents\\Projects\\onion-architecture\\Services\\Services.csproj",
+        "projectName": "Services",
+        "projectPath": "c:\\Users\\23480\\Documents\\Projects\\onion-architecture\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\23480\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\23480\\Documents\\Projects\\onion-architecture\\Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\23480\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "c:\\Users\\23480\\Documents\\Projects\\onion-architecture\\Contract\\Contract.csproj": {
+                "projectPath": "c:\\Users\\23480\\Documents\\Projects\\onion-architecture\\Contract\\Contract.csproj"
+              },
+              "c:\\Users\\23480\\Documents\\Projects\\onion-architecture\\Services.Contract\\Services.Contract.csproj": {
+                "projectPath": "c:\\Users\\23480\\Documents\\Projects\\onion-architecture\\Services.Contract\\Services.Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\23480\\Documents\\Projects\\onion-architecture\\Shared\\Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\23480\\Documents\\Projects\\onion-architecture\\Shared\\Shared.csproj",
+        "projectName": "Shared",
+        "projectPath": "c:\\Users\\23480\\Documents\\Projects\\onion-architecture\\Shared\\Shared.csproj",
+        "packagesPath": "C:\\Users\\23480\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\23480\\Documents\\Projects\\onion-architecture\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\23480\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

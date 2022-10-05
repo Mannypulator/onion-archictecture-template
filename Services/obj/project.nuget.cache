@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "wwzqxwSAtc7gYOPduo64i9f/MWUQyaQzXuwPEIyIS1cPivQkC+c2DCJbdKO4gXLmM0nsQ99+c3TkzcuLclz/2g==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\23480\\Documents\\Projects\\onion-architecture\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\23480\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\23480\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\23480\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\23480\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\23480\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\23480\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\23480\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
